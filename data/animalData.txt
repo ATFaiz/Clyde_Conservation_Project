@@ -1,0 +1,32 @@
+TI145
+Jiba
+Male
+Tiger
+predator
+05/11/2015
+Mammal
+CG550
+AP558
+Genus Pongo
+Male
+
+prey
+05/05/2018
+Mammal
+None
+EA630
+Grey-Headed Fish-Eagle
+Female
+Eagle
+predator
+15/5/2019
+Bird
+None
+BE119
+Huffy
+Male
+Bearded Dragon
+prey
+11/9/2017
+Reptile
+CG329

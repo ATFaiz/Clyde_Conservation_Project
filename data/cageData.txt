@@ -1,0 +1,15 @@
+CG550
+Small
+Tiger
+1
+1
+CG329
+Medium
+Reptile
+5
+2
+CG11
+Large
+None
+10
+4

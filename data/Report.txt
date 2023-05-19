@@ -1,0 +1,96 @@
+CLYDE CONSERVATION
+WEEKLY REPORT
+WEDNESDAY 3 MARCH 2021 (WEEK 9)
+
+CAGE
+	Cage ID: CG550
+	Cage Size: Small
+	Cage Type: Tiger
+	Cage Animal Capacity: 1
+	Cage Keeper Capacity: 1
+
+	ANIMALS
+		Animal ID: TI145
+		Animal Name: Jiba
+		Animal Sex: Male
+		Animal Type: Tiger
+		Animal Category: predator
+
+		Animal DOB: 05/11/2015
+
+		Animal Class: Mammal
+
+	KEEPERS
+		Keeper ID: KP194
+		Keeper First Name: Ahmad 
+		Keeper Last Name: Shah
+
+		Keeper Contact No: 0787707075146
+
+		Keeper Position: Head
+
+		Keeper Address: 55 Kirkton Avenue
+
+CAGE
+	Cage ID: CG329
+	Cage Size: Medium
+	Cage Type: Reptile
+	Cage Animal Capacity: 5
+	Cage Keeper Capacity: 2
+
+	ANIMALS
+		Animal ID: BE119
+		Animal Name: Huffy
+		Animal Sex: Male
+		Animal Type: Bearded Dragon
+		Animal Category: prey
+
+		Animal DOB: 11/9/2017
+
+		Animal Class: Reptile
+
+	KEEPERS
+		Keeper ID: KP721
+		Keeper First Name: Johan
+		Keeper Last Name: Band
+
+		Keeper Contact No: 07707014582
+
+		Keeper Position: Assistant
+
+		Keeper Address: 67 Anniesland road
+
+CAGE
+	Cage ID: CG11
+	Cage Size: Large
+	Cage Type: None
+	Cage Animal Capacity: 10
+	Cage Keeper Capacity: 4
+
+	ANIMALS
+	KEEPERS
+
+ANIMALS NOT ASSIGNED TO A CAGE
+
+	Animal ID: AP558
+	Animal Name: Genus Pongo
+	Animal Sex: Male
+	Animal Type: 
+	Animal Class: Mammal
+
+	Animal ID: EA630
+	Animal Name: Grey-Headed Fish-Eagle
+	Animal Sex: Female
+	Animal Type: Eagle
+	Animal Class: Bird
+
+KEEPERS NOT ASSIGNED TO MAX CAGES
+
+	Keeper ID: KP194
+	Keeper First Name: Ahmad 
+	Keeper Last Name: Shah
+
+	Keeper ID: KP721
+	Keeper First Name: Johan
+	Keeper Last Name: Band
+
